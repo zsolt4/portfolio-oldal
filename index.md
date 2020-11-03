@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Hello my friend. :
+
+First of all, I would like to welcome you to my resume or portfolio site. Couldn't say this is my first website, because this is my second tour in the world of internet.
+Couple of years ago i was working in different projects like building websites, networking,  and so on but at the and I needed to leave all because of changes in other sides of my life.
+After 8 years of being totally offline, now I'm trying to come back. 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/zsolt4/portfolio-oldal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
